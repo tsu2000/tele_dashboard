@@ -1,3 +1,8 @@
+[server]
+enableWebsocketCompression=false
+enableXsrfProtection=false
+maxUploadSize=500
+
 [theme]
 base="light"
 backgroundColor="#c6fbf4"
