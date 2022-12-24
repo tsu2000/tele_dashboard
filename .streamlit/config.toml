@@ -2,6 +2,3 @@
 base="light"
 backgroundColor="#c6fbf4"
 secondaryBackgroundColor="#bbd8ff"
-
-[server]
-maxUploadSize = 500
