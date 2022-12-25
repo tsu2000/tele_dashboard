@@ -2,14 +2,12 @@
 
 A simple dashboard application which allows users to view a simple statistical overview of their Telegram chat data.
 
-Available features:
+**Available features**:
 - Metrics regarding chat users (≥ 1 message in chat), total number of messages and age of chat group.
 - Interactive bar chart which shows the number of messages sent by users, from most to least active.
-- COMING SOON
-- Time series data of number of daily messages sent over time.
+- Interactive line chart showing of number of daily messages sent over time.
+- Interactive scatter plot comparing each user's average number of words per message against the total number of messages sent by the user.
 - Word Cloud showing the most frequently used words (200 words max).
-
-
 
 **Link to Web App**:
 
