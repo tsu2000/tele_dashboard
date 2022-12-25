@@ -17,4 +17,4 @@ Available features:
 
 **Instructions to export Telegram chats as `.JSON` files**:
 
-[<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">](<https://tele-dash.streamlit.app/>)
+[<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">](<https://github.com/tsu2000/tele_dashboard/blob/main/instructions.md>)
