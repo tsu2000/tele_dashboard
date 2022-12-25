@@ -2,23 +2,5 @@
  "name": "Sample Chat",
  "type": "private_group",
  "id": 32817487237119,
- "messages": [
-  {
-   "id": 32327187938,
-   "type": "service",
-   "date": "2022-02-22T12:13:27",
-   "date_unixtime": "17382727873",
-   "actor": "Joseph Joestar",
-   "actor_id": "user638805658",
-   "action": "create_group",
-   "title": "Sample Chat",
-   "members": [
-    "Joseph Joestar",
-    "Hugh Janus",
-    "Sussy Baka"
-   ],
-   "text": "",
-   "text_entities": []
-  }
-   ]
+ "messages": []
 }
