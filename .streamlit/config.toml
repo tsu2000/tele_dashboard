@@ -1,7 +1,7 @@
 [server]
 enableWebsocketCompression = false
 enableXsrfProtection = false
-maxUploadSize = 200
+maxUploadSize = 500
 
 [theme]
 base = "light"
