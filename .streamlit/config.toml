@@ -1,8 +1,8 @@
 [server]
-enableWebsocketCompression=true
+enableWebsocketCompression=false
 enableXsrfProtection=false
-maxUploadSize=500
-maxMessageSize=500
+maxUploadSize=5000
+maxMessageSize=5000
 
 
 [theme]
