@@ -2,6 +2,7 @@
 enableWebsocketCompression=false
 enableXsrfProtection=false
 maxUploadSize=500
+maxMessageSize=500
 
 [theme]
 base="light"
