@@ -1,1 +1,3942 @@
-{"name": "Sample Chat"}
+{
+ "name": "Sample Chat Group",
+ "type": "private_group",
+ "id": 69420,
+ "messages": [
+  {
+   "id": 69420,
+   "type": "service",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "actor": "Joseph Joestar",
+   "actor_id": "user000AX6969",
+   "action": "create_group",
+   "title": "Sample Chat Group",
+   "members": [
+    "Joseph Joestar",
+    "Sussy Baka",
+    "Hugh Janus"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "edited": "2022-03-21T11:11:11",
+   "edited_unixtime": "1661765816",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "The One Piece! The One Piece is Real!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "The One Piece! The One Piece is Real!"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "service",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "actor": "Joseph Joestar",
+   "actor_id": "user000AX6969",
+   "action": "invite_members",
+   "members": [
+    "no_life_coder"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "service",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "actor": "Joseph Joestar",
+   "actor_id": "user000AX6969",
+   "action": "invite_members",
+   "members": [
+    "A real snake 🐍"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "service",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "actor": "Joseph Joestar",
+   "actor_id": "user000AX6969",
+   "action": "invite_members",
+   "members": [
+    "Beluga"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "According to all known laws of aviation, there is no way a bee should be able to fly.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "According to all known laws of aviation, there is no way a bee should be able to fly."
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Hey guys, did you know that in terms of male human and female Pokémon breeding, Vaporeon is the most compatible Pokémon for humans?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hey guys, did you know that in terms of male human and female Pokémon breeding, Vaporeon is the most compatible Pokémon for humans?"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane Albuquerque New Mexico 87104.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane Albuquerque New Mexico 87104."
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Can we get much higher? So high",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can we get much higher? So high"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "My name is Yoshikage Kira. I'm 33 years old. My house is in the northeast section of Morioh, where all the villas are, and I am not married. I work as an employee for the Kame Yu department stores, and I get home every day by 8 PM at the latest. I don't smoke, but I occasionally drink. I'm in bed by 11 PM, and make sure I get eight hours of sleep, no matter what. After having a glass of warm milk and doing about twenty minutes of stretches before going to bed, I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning. I was told there were no issues at my last check-up. I'm trying to explain that I'm a person who wishes to live a very quiet life. I take care not to trouble myself with any enemies, like winning and losing, that would cause me to lose sleep at night. That is how I deal with society, and I know that is what brings me happiness. Although, if I were to fight I wouldn't lose to anyone.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "My name is Yoshikage Kira. I'm 33 years old. My house is in the northeast section of Morioh, where all the villas are, and I am not married. I work as an employee for the Kame Yu department stores, and I get home every day by 8 PM at the latest. I don't smoke, but I occasionally drink. I'm in bed by 11 PM, and make sure I get eight hours of sleep, no matter what. After having a glass of warm milk and doing about twenty minutes of stretches before going to bed, I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning. I was told there were no issues at my last check-up. I'm trying to explain that I'm a person who wishes to live a very quiet life. I take care not to trouble myself with any enemies, like winning and losing, that would cause me to lose sleep at night. That is how I deal with society, and I know that is what brings me happiness. Although, if I were to fight I wouldn't lose to anyone."
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Curse you Perry the Platypus!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Curse you Perry the Platypus!"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Perry the Platypus?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Perry the Platypus?"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😩",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "How Trump can still win under section 34 of Secure Credits and Taxes act, the president can induce artificial inflation and if the inflation gets high enough, technically Trump can declare emergency powers and not leave the office, google 'Trump SCAT inflation rule 34' for more info",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How Trump can still win under section 34 of Secure Credits and Taxes act, the president can induce artificial inflation and if the inflation gets high enough, technically Trump can declare emergency powers and not leave the office, google 'Trump SCAT inflation rule 34' for more info"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "text": "Harry! Did you put your name in the Goblet of Fire?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Harry! Did you put your name in the Goblet of Fire?"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Ah, I see you're a man of culture as well.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ah, I see you're a man of culture as well."
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "No one will ever read this, lmao",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No one will ever read this, lmao"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "I feel like I'm getting schizophrenia by coming up with sample text to pretend that this is a real Telegram chat",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I feel like I'm getting schizophrenia by coming up with sample text to pretend that this is a real Telegram chat"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Is that a JoJo Reference?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is that a JoJo Reference?"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "I don't like sand😤✋🏻it's coarse,🙅🏻‍♂️and rough, 😰👺and irritating🦀and 😱it gets e v e r y w h e r e.💥🙊not❌ like 👀here👇🏻💯 👅here,everything is soft 👏🏻🍑and smooth😫👌🏻",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I don't like sand😤✋🏻it's coarse,🙅🏻‍♂️and rough, 😰👺and irritating🦀and 😱it gets e v e r y w h e r e.💥🙊not❌ like 👀here👇🏻💯 👅here,everything is soft 👏🏻🍑and smooth😫👌🏻"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "New phone who dis?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "New phone who dis?"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "This angered his father, who punished him severely.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "This angered his father, who punished him severely."
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Wow I think I really need to touch grass",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Wow I think I really need to touch grass"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "edited": "2022-03-21T11:11:11",
+   "edited_unixtime": "1661768970",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "It's not a bug it's a feature",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "It's not a bug it's a feature"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Kid named finger",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Kid named finger"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Have you ever played the hit game, Among Us?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Have you ever played the hit game, Among Us?"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "I'm not even a computer science major",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I'm not even a computer science major"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-03-21T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😭",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "edited": "2022-04-11T11:11:11",
+   "edited_unixtime": "1662354269",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "service",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "actor": "Joseph Joestar",
+   "actor_id": "user000AX6969",
+   "action": "pin_message",
+   "message_id": 13650,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "edited": "2022-04-11T11:11:11",
+   "edited_unixtime": "1662361211",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "edited": "2022-04-11T11:11:11",
+   "edited_unixtime": "1662361265",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "🙏",
+   "width": 453,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "edited": "2022-04-11T11:11:11",
+   "edited_unixtime": "1662361690",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😭",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👌",
+   "width": 459,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-04-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😛",
+   "width": 512,
+   "height": 120,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-05-12T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-05-12T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "service",
+   "date": "2022-05-12T11:11:11",
+   "date_unixtime": "0000000000",
+   "actor": "Joseph Joestar",
+   "actor_id": "user000AX6969",
+   "action": "pin_message",
+   "message_id": 13851,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-05-12T11:11:11",
+   "date_unixtime": "0000000000",
+   "edited": "2022-05-12T11:11:11",
+   "edited_unixtime": "1662607961",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-07T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Hugh Janus",
+   "from_id": "user000AX691090909",
+   "text": "Hi my name is Ebony Dark’ness Dementia Raven Way and I have long ebony black hair (that’s how I got my name) with purple streaks and red tips that reaches my mid-back and icy blue eyes like limpid tears and a lot of people tell me I look like Amy Lee (AN: if u don’t know who she is get da hell out of here!). I’m not related to Gerard Way but I wish I was because he’s a major fucking hottie. I’m a vampire but my teeth are straight and white. I have pale white skin. I’m also a witch, and I go to a magic school called Hogwarts in England where I’m in the seventh year (I’m seventeen). I’m a goth (in case you couldn’t tell) and I wear mostly black. I love Hot Topic and I buy all my clothes from there. For example today I was wearing a black corset with matching lace around it and a black leather miniskirt, pink fishnets and black combat boots. I was wearing black lipstick, white foundation, black eyeliner and red eye shadow. I was walking outside Hogwarts. It was snowing and raining so there was no sun, which I was very happy about. A lot of preps stared at me. I put up my middle finger at them.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hi my name is Ebony Dark’ness Dementia Raven Way and I have long ebony black hair (that’s how I got my name) with purple streaks and red tips that reaches my mid-back and icy blue eyes like limpid tears and a lot of people tell me I look like Amy Lee (AN: if u don’t know who she is get da hell out of here!). I’m not related to Gerard Way but I wish I was because he’s a major fucking hottie. I’m a vampire but my teeth are straight and white. I have pale white skin. I’m also a witch, and I go to a magic school called Hogwarts in England where I’m in the seventh year (I’m seventeen). I’m a goth (in case you couldn’t tell) and I wear mostly black. I love Hot Topic and I buy all my clothes from there. For example today I was wearing a black corset with matching lace around it and a black leather miniskirt, pink fishnets and black combat boots. I was wearing black lipstick, white foundation, black eyeliner and red eye shadow. I was walking outside Hogwarts. It was snowing and raining so there was no sun, which I was very happy about. A lot of preps stared at me. I put up my middle finger at them."
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-07T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/png",
+   "width": 943,
+   "height": 680,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-07T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/png",
+   "width": 907,
+   "height": 674,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-07T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-07T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Hugh Janus",
+   "from_id": "user000AX691090909",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-07T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-07T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-07T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-07T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-07T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-07T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-07T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Okay, so lets say soup is defined as a liquid dish that contains pieces of solid food from wich it extracts its flavor. You can agree with me on that statement right? Okay, now lets say that hypothetically speaking, i want to consume a bowl of cereal. By definition, cereal is a grainy food that comes in numerous small chunks and that is tipically eaten with milk. Are you following me? And if we take a closer look at the milk, does it not also absorb some flavor and color from within the cereal pieces swimming in it? Knowing this information, therefore, we can logically conclude that cereal must indeed be soup. Am I not correct?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Okay, so lets say soup is defined as a liquid dish that contains pieces of solid food from wich it extracts its flavor. You can agree with me on that statement right? Okay, now lets say that hypothetically speaking, i want to consume a bowl of cereal. By definition, cereal is a grainy food that comes in numerous small chunks and that is tipically eaten with milk. Are you following me? And if we take a closer look at the milk, does it not also absorb some flavor and color from within the cereal pieces swimming in it? Knowing this information, therefore, we can logically conclude that cereal must indeed be soup. Am I not correct?"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-07T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 591,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Python is cool",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Python is cool"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-06-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Sussy Baka",
+   "from_id": "user000AX693200",
+   "text": "While You Were Partying, I Studied the Blade",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "While You Were Partying, I Studied the Blade"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Sussy Baka",
+   "from_id": "user000AX693200",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😔",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😥",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "This truly is one of the movies ever made",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "This truly is one of the movies ever made"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-02T11:11:11",
+   "date_unixtime": "0000000000",
+   "edited": "2022-07-22T11:11:11",
+   "edited_unixtime": "1664727627",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "reply_to_message_id": 69420,
+   "text": "They targeted gamers. Gamers. We're a group of people who will sit for hours, days, even weeks on end performing some of the hardest, most mentally demanding tasks. Over, and over, and over all for nothing more than a little digital token saying we did.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "They targeted gamers. Gamers. We're a group of people who will sit for hours, days, even weeks on end performing some of the hardest, most mentally demanding tasks. Over, and over, and over all for nothing more than a little digital token saying we did."
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": [
+    {
+     "type": "mention",
+     "text": "Lorem ipsum"
+    },
+    " , Nope"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "Lorem ipsum"
+    },
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "edited": "2022-07-22T11:11:11",
+   "edited_unixtime": "1664779460",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Hugh Janus",
+   "from_id": "user000AX691090909",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "edited": "2022-07-22T11:11:11",
+   "edited_unixtime": "1664781673",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": [
+    {
+     "type": "email",
+     "text": "Lorem ipsum"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "email",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Hugh Janus",
+   "from_id": "user000AX691090909",
+   "text": [
+    {
+     "type": "email",
+     "text": "Lorem ipsum"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "email",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "A real snake 🐍",
+   "from_id": "user000AX692019",
+   "text": [
+    {
+     "type": "email",
+     "text": "Lorem ipsum"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "email",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "A real snake 🐍",
+   "from_id": "user000AX692019",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Sussy Baka",
+   "from_id": "user000AX693200",
+   "text": [
+    {
+     "type": "email",
+     "text": "To be fair, you have to have a very high IQ to understand Rick and Morty"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "email",
+     "text": "To be fair, you have to have a very high IQ to understand Rick and Morty"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-07-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Sussy Baka",
+   "from_id": "user000AX693200",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-01T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-01T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": [
+    {
+     "type": "mention",
+     "text": "Lorem ipsum"
+    },
+    ", need your gmail AHA, get some rest ba"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "Lorem ipsum"
+    },
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-01T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-01T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "text": [
+    {
+     "type": "email",
+     "text": "Lorem ipsum"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "email",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-01T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "🐱",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-16T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "edited": "2022-08-18T11:11:11",
+   "edited_unixtime": "1665322393",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Hugh Janus",
+   "from_id": "user000AX691090909",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Sussy Baka",
+   "from_id": "user000AX693200",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Sussy Baka",
+   "from_id": "user000AX693200",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Hugh Janus",
+   "from_id": "user000AX691090909",
+   "reply_to_message_id": 69420,
+   "text": "up, up, down, down, left, right, left, right, B, A",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "up, up, down, down, left, right, left, right, B, A"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Hugh Janus",
+   "from_id": "user000AX691090909",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "edited": "2022-08-18T11:11:11",
+   "edited_unixtime": "1665322818",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "text": "That's just a theory... A Game Theory!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "That's just a theory... A Game Theory!"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "edited": "2022-08-18T11:11:11",
+   "edited_unixtime": "1665322880",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": [
+    {
+     "type": "mention",
+     "text": "Lorem ipsum"
+    },
+    " SIR"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "Lorem ipsum"
+    },
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Xue Hua Piao Piao Bei Feng Xiao Xiao",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Xue Hua Piao Piao Bei Feng Xiao Xiao"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "text": "There might be information I forgot to censor here",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "There might be information I forgot to censor here"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "HOW DO I CENTER A DIV",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "HOW DO I CENTER A DIV"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "🐱",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "edited": "2022-08-18T11:11:11",
+   "edited_unixtime": "1665323525",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😀",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Beluga",
+   "from_id": "user000AX692089092",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1082,
+   "height": 614,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😀",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-18T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/png",
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Hugh Janus",
+   "from_id": "user000AX691090909",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 429,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "reply_to_message_id": 69420,
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "edited": "2022-08-22T11:11:11",
+   "edited_unixtime": "1665394298",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 550,
+   "height": 549,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-22T11:11:11",
+   "date_unixtime": "0000000000",
+   "edited": "2022-08-22T11:11:11",
+   "edited_unixtime": "1665392072",
+   "from": "no_life_coder",
+   "from_id": "user280666525",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-30T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Hugh Janus",
+   "from_id": "user000AX691090909",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-30T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Hugh Janus",
+   "from_id": "user000AX691090909",
+   "text": "Lorem ipsum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lorem ipsum"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-30T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "If you read till here I firmly believe VSCode is a better IDE than VIM",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "If you read till here I firmly believe VSCode is a better IDE than VIM"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-08-30T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "text": "Congratulations on wasting your time reading this sample text that took me way too long to create, lol",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Congratulations on wasting your time reading this sample text that took me way too long to create, lol"
+    }
+   ]
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-09-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69420,
+   "type": "message",
+   "date": "2022-09-11T11:11:11",
+   "date_unixtime": "0000000000",
+   "from": "Joseph Joestar",
+   "from_id": "user000AX6969",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  }
+ ]
+}
