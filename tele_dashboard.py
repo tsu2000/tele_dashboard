@@ -1,4 +1,5 @@
 import streamlit as st
+import numpy as np
 import pandas as pd
 import altair as alt
 import requests
@@ -40,6 +41,22 @@ def main():
         if 'key' not in st.session_state: 
             st.session_state.key = str(randint(1000, 100000000))
 
+        with st.expander("View sample Telegram chat file:"):
+
+            # Create downloadable JSON format
+            @st.cache
+            def initial_json(url):
+                data = requests.get(url).json()
+                return json.dumps(data)
+
+            st.download_button(
+                label = 'Download sample JSON',
+                file_name = 'sample_tele_chat_data.json',
+                mime = 'application/json',
+                help = 'Download sample Telegram JSON file',
+                data = initial_json('https://raw.githubusercontent.com/tsu2000/tele_dashboard/main/sample.json')
+            )
+
         uploaded_files = st.file_uploader('Upload all Telegram chat messages to be processed here (in `.json` format) - View [**instructions**](https://github.com/tsu2000/tele_dashboard/blob/main/instructions.md)', 
                                            accept_multiple_files = True,
                                            key = st.session_state.key,
@@ -55,7 +72,7 @@ def main():
 
     # Main page start
     if not uploaded_files:
-        st.error('No files have been uploaded. Please upload at least 1 exported Telegram chat file (in `.json` format). If you have multiple `.json` files, upload them in chronological order. However if the file size is too large the app may crash.', icon = '🚨')
+        st.error('No files have been uploaded. Please upload at least 1 exported Telegram chat file (in `.json` format). If you have multiple `.json` files, upload them in chronological order. Try not to upload files which are too large, as they may crash the app.', icon = '🚨')
     else:
         raw_data_files = []
 
@@ -80,15 +97,15 @@ def main():
                 more_data = json.loads(rdf)
                 init_data['messages'].extend(more_data['messages'])
 
-        # Obtaining statistics about the data
         all_data = init_data
 
+        # Obtaining statistics about the data
         message_sent = [x['from'] for x in all_data['messages'] if 'from' in x]
         users = list(set(message_sent))
 
         user_and_message_and_date = [[x['from'], ''.join([y['text'] for y in x['text_entities']]), x['date'][:10]] for x in all_data['messages'] if ('from' in x and 'text_entities' in x and 'date' in x)]
         
-        # Main dataframe
+        # MAIN DATAFRAME
         df = pd.DataFrame(data = user_and_message_and_date, columns = ['User', 'Message', 'Date'])
 
         # Dataframe for bar chart
@@ -116,31 +133,51 @@ def main():
             color = alt.value('green'),
         ).interactive()
 
-        # APP VISUALISATION START
+        # Dataframe for scatter plot
+        df['Message word count'] = [len(msg.split()) for msg in df['Message']]
+        df4 = df[df['Message word count'] != 0]
+        avg_word_count = df4.groupby('User')['Message word count'].mean()
+        
+        df_scatter = pd.concat([avg_word_count, msg_counts], axis = 1).reset_index()
+        df4 = df_scatter.rename(columns = {'index': 'User', 'Message word count': 'Average word count', 'User': 'Total messages sent'})
+
+        alt_scatter_plot = alt.Chart(df4).mark_circle(size = 75, opacity = 0.75).encode(
+            x = alt.X('Average word count', title = 'Average word count per message'),
+            y = 'Total messages sent',
+            color = 'User',
+            tooltip = ['User', 'Average word count', 'Total messages sent']
+        ).interactive()
+
+
+        # # # # # # APP VISUALISATION START # # # # # #
 
         # Chat Metrics
         st.markdown(f"### Chat Overview - {all_data['name']}")
         col1, col2, col3 = st.columns(3)
-        col1.metric('No. of Users &nbsp; 👥', len(set(users)))
+        col1.metric('No. of Chat Users 👥', len(set(users)))
         col2.metric('No. of Messages &nbsp; 💬', len(message_sent))
-        col3.metric("Chat group age &nbsp; 🗓️", f'{days} d')
+        col3.metric("Chat Group Age &nbsp; 🗓️", f'{days} d')
 
         # Bar chart
-        st.markdown('### Most active users')    
+        st.markdown('### Active users')
         st.altair_chart(alt_bar_chart, use_container_width = True)
 
         # Line chart
         st.markdown('### Daily no. of messages sent')
         st.altair_chart(alt_line_chart, use_container_width = True)
 
+        # Scatter plot
+        st.markdown('#### Average no. of words per message VS Total no. of messages sent')
+        st.altair_chart(alt_scatter_plot, use_container_width = True)
+
         # Word cloud
         st.markdown('### Word Cloud')
         all_words = ' '.join(df['Message'])
 
-        wc = WordCloud(mode = "RGBA", background_color = None, width = 800, height = 300, margin = 2)
-        fig = wc.generate(all_words)
+        wc = WordCloud(mode = "RGBA", background_color = None, width = 2000, height = 1000, margin = 2)
+        wc_fig = wc.generate(all_words)
         
-        st.image(fig.to_array(), use_column_width = True)
+        st.image(wc_fig.to_array(), use_column_width = True)
 
         st.markdown('---')
 
