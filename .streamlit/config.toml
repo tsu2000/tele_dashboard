@@ -1,7 +1,8 @@
 [server]
+headless = true
 enableWebsocketCompression = false
 enableXsrfProtection = false
-maxUploadSize = 500
+maxUploadSize = 200
 
 [theme]
 base = "light"
