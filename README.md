@@ -11,7 +11,8 @@ A simple dashboard application which allows users to view a simple statistical o
 
 **Known limitations**:
 - Only accepts `.json` files for processing.
-- File size limited to <200MB for now.
+- File size limited to <200MB for now. If multiple files added, around 250MB total. **DO NOT EXCEED THIS YOU WILL 100% CRASH THE APP**
+- Chat group age may not be completely accurate for certain chats
 
 **Link to Web App**:
 
