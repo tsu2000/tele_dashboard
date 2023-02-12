@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import altair as alt
+import nltk
 import requests
 import io
 import json
@@ -11,6 +12,8 @@ from random import randint
 from wordcloud import WordCloud
 from streamlit_extras.badges import badge
 from PIL import Image
+from nltk.sentiment import SentimentIntensityAnalyzer
+from nlp import sentiment_analysis
 
 
 def main():
@@ -154,9 +157,9 @@ def main():
         # Chat Metrics
         st.markdown(f"### Chat Overview - {all_data['name']}")
         col1, col2, col3 = st.columns(3)
-        col1.metric('No. of Chat Users 👥', len(set(users)))
-        col2.metric('No. of Messages &nbsp; 💬', len(message_sent))
-        col3.metric("Chat Group Age &nbsp; 🗓️", f'{days} d')
+        col1.metric('No. of Chat Users 👥', f'{len(set(users)):,}')
+        col2.metric('No. of Messages &nbsp; 💬', f'{len(message_sent):,}')
+        col3.metric("Chat Group Age &nbsp; 🗓️", f'{days:,} d')
 
         # Bar chart
         st.markdown('### Active users')
@@ -174,10 +177,54 @@ def main():
         st.markdown('### Word Cloud')
         all_words = ' '.join(df['Message'])
 
-        wc = WordCloud(mode = "RGBA", background_color = None, width = 2000, height = 1000, margin = 2)
+        wc = WordCloud(mode = "RGBA", max_words = 100, background_color = None, width = 2000, height = 1000, margin = 2)
         wc_fig = wc.generate(all_words)
         
         st.image(wc_fig.to_array(), use_column_width = True)
+
+        # Sentiment Analysis (Experimental)
+        st.markdown('### Sentiment Analysis (Experimental)')
+        st.markdown('**Disclaimer**: Sentiment analysis is limited to purely text messages in the chat group, with no support for stickers/emojis.')
+
+        vader = SentimentIntensityAnalyzer()
+
+        all_msg_df = df[df['Message'] != '']
+        all_msg_df['Sentiment'] = all_msg_df['Message'].apply(lambda x: vader.polarity_scores(x)['compound'])
+        all_msg_df['Sentiment Type'] = all_msg_df['Sentiment'].apply(lambda x: 'Positive' if x > 0 else 'Negative' if x < 0 else 'Neutral')
+
+        summary_df = all_msg_df.groupby(['Sentiment Type']).agg({'Sentiment': 'sum', 'Sentiment Type': 'count'})
+
+        # st.dataframe(summary_df, use_container_width = True)
+
+        series = sentiment_analysis(summary_df)
+
+        source = pd.DataFrame(index = series.index, data = series.values, columns = ['Percentage']).reset_index(names = 'Sentiment Type')
+
+        chart = alt.Chart(source).mark_bar().encode(
+            x = alt.X('Percentage', axis=alt.Axis(format='%')),
+            y = 'Sentiment Type',
+            color = alt.Color('Sentiment Type', scale = alt.Scale(range = ['#48C416', '#CEA200', '#DF2727']), legend = None)
+        )
+
+        text = chart.mark_text(align = 'left', dx = 5).encode(
+            text = alt.Text('Percentage:Q', format = ',.2%'),
+        )
+
+        sentiment_final = (chart + text).properties(
+            title = 'Percentage of each type of sentiment in chat group',
+            width = 800,
+            height = 300
+        ).configure_title(
+            fontSize = 15,
+            offset = 15,
+            anchor = 'middle'
+        ).configure_axisX(
+            titlePadding = 20
+        ).configure_axisY(
+            titlePadding = 20
+        )
+
+        st.altair_chart(sentiment_final, use_container_width = True)
 
         st.markdown('---')
 
