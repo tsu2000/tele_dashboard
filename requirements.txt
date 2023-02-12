@@ -7,3 +7,4 @@ datetime==4.5
 wordcloud==1.8.1
 streamlit_extras==0.2.4
 Pillow==9.2.0
+nltk==3.7
