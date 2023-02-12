@@ -230,5 +230,6 @@ def main():
 
 
 if __name__ == "__main__":
+    nltk.download('vader_lexicon')
     st.set_page_config(page_title = 'Telegram Dashboard', page_icon = '📈')
     main()
