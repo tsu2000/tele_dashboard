@@ -78,6 +78,8 @@ def main():
         st.error('No files have been uploaded. Please upload at least 1 exported Telegram chat file (in `.json` format). If you have multiple `.json` files, upload them in chronological order. Try not to upload files which are too large (>200MB total), as they ~~may~~ **will** crash the app. You have been warned!', icon = '🚨')
     else:
         raw_data_files = []
+        
+        uploaded_files = open("sample.json", "rb")
 
         for uploaded_file in uploaded_files:
             bytes_data = uploaded_file.read()
