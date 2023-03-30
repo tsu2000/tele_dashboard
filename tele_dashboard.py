@@ -65,8 +65,7 @@ def main():
         uploaded_files = st.file_uploader('Upload all Telegram chat messages to be processed here (in `.json` format) - View [**instructions**](https://github.com/tsu2000/tele_dashboard/blob/main/instructions.md)', 
                                            accept_multiple_files = True,
                                            key = st.session_state.key,
-                                           type = '.json',
-                                           value = preloaded_file)
+                                           type = '.json')
 
         if uploaded_files != []:
             st.markdown('---')
@@ -80,6 +79,7 @@ def main():
     if not uploaded_files:
         st.error('No files have been uploaded. Please upload at least 1 exported Telegram chat file (in `.json` format). If you have multiple `.json` files, upload them in chronological order. Try not to upload files which are too large (>200MB total), as they ~~may~~ **will** crash the app. You have been warned!', icon = '🚨')
     else:
+        uploaded_files = preloaded_file
         raw_data_files = []
 
         for uploaded_file in uploaded_files:
