@@ -47,7 +47,7 @@ def main():
         with st.expander("View sample Telegram chat file:"):
 
             # Create downloadable JSON format
-            @st.cache
+            @st.cache_data
             def initial_json(url):
                 data = requests.get(url).json()
                 return json.dumps(data)
@@ -83,7 +83,7 @@ def main():
             bytes_data = uploaded_file.read()
             raw_data_files.append(bytes_data)
 
-        @st.cache
+        @st.cache_data
         def days_between(d1, d2):
             d1 = datetime.strptime(d1, "%Y-%m-%d")
             d2 = datetime.strptime(d2, "%Y-%m-%d")
