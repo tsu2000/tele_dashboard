@@ -2,6 +2,8 @@
 
 A simple dashboard application which allows users to view a simple statistical overview of their Telegram chat data.
 
+![tele_dash](https://github.com/tsu2000/tele_dashboard/assets/106811131/d4172169-8025-4515-a85e-5e95e27251c4)
+
 **Available features**:
 - Metrics regarding chat users (≥ 1 message in chat), total number of messages and age of chat group.
 - Interactive bar chart which shows the number of messages sent by users, from most to least active.
