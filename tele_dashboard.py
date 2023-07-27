@@ -183,8 +183,8 @@ def main():
         st.image(wc_fig.to_array(), use_column_width = True)
 
         # Sentiment Analysis (Experimental)
-        st.markdown('### Sentiment Analysis (Experimental)')
-        st.markdown('**Disclaimer**: Sentiment analysis is limited to purely text messages in the chat group, with no support for stickers/emojis.')
+        st.markdown('### Sentiment Analysis')
+        st.markdown('**Disclaimer**: Sentiment analysis is limited to purely text messages in the chat group, with no support for stickers/emojis/other files.')
 
         vader = SentimentIntensityAnalyzer()
 
